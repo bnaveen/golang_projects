@@ -1,7 +1,7 @@
 package main
 
 import (
-	forLoop "com.naveen/m/v2/for"
+	arrays "com.naveen/m/v2/arrays"
 )
 
 func main() {
@@ -9,5 +9,8 @@ func main() {
 	//	values.ValuesFunction()
 	//	variables.VariablesFunction()
 	//	constants.ConstantsFunction()
-	forLoop.ForLoopFunction()
+	// forLoop.ForLoopFunction()
+	// conditions.Conditions()
+	// switchFmt.SwtichFunction()
+	arrays.ArrayFunctions()
 }
